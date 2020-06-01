@@ -21,9 +21,7 @@
         $('navbar').show(500);
         */
        
-        $('.delete').click(function() {
-            alert('Are you sure');
-        });
+   
     });
 
     
