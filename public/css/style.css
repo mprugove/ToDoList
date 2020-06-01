@@ -1,0 +1,11 @@
+hr {
+    border:2px solid lightskyblue;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-right {
+    float: left;
+}
