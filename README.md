@@ -1,2 +1,2 @@
 # ToDoList
-Simple MVC To do list app 
+Application made with MVC structure
