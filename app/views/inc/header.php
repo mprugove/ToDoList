@@ -11,6 +11,6 @@
   <link rel="icon" type="image/png" href="<?php echo URLROOT; ?>/img/logo.png" resize="16x16">
   <title><?php echo SITENAME; ?></title>
 </head>
-<body onLoad="redirect()">
+<body>
 
 <div class="container-flex px-5">
